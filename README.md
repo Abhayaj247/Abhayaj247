@@ -1,7 +1,11 @@
-# 💫 About Me:
-🌱 I’m currently learning React.js,Node.js,Django
+<h1 align="center">Hi 👋, I'm Abhay M Joshi</h1>
+<h3 align="center">Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-[![](https://visitcount.itsvg.in/api?id=Abhayaj247&icon=0&color=5)](https://visitcount.itsvg.in)
+# 💫 About Me:
+
+I’m currently learning React.js,Node.js,Django.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_abhayjoshi_24/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhay-m-joshi-7507251bb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/abhayAJ_24) 
 
@@ -16,5 +20,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Abhayaj247&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=Abhayaj247&icon=0&color=5)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
